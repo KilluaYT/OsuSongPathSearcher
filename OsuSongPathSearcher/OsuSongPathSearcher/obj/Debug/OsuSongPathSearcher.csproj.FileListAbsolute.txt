@@ -1,0 +1,6 @@
+C:\Users\Itona\source\repos\OsuSongPathSearcher\OsuSongPathSearcher\bin\Debug\OsuSongPathSearcher.dll
+C:\Users\Itona\source\repos\OsuSongPathSearcher\OsuSongPathSearcher\bin\Debug\OsuSongPathSearcher.pdb
+C:\Users\Itona\source\repos\OsuSongPathSearcher\OsuSongPathSearcher\obj\Debug\OsuSongPathSearcher.csprojAssemblyReference.cache
+C:\Users\Itona\source\repos\OsuSongPathSearcher\OsuSongPathSearcher\obj\Debug\OsuSongPathSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Itona\source\repos\OsuSongPathSearcher\OsuSongPathSearcher\obj\Debug\OsuSongPathSearcher.dll
+C:\Users\Itona\source\repos\OsuSongPathSearcher\OsuSongPathSearcher\obj\Debug\OsuSongPathSearcher.pdb
